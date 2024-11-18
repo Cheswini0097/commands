@@ -28,4 +28,8 @@ Command to check the Namespaces
 ```
 kubectl get namespaces
 ```
-Command to 
+Command to login in to conatiner
+
+```
+ kubectl exec -it nginx bash
+ ```
