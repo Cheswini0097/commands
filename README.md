@@ -14,3 +14,18 @@ Command to run cluster setup file
 ```
 eksctl create cluster --config-file=eks.yaml
 ```
+
+Command to run the Kubectl file
+
+```
+kubectl apply -f <filename>
+```
+Command to login into running pod
+
+```
+Command to check the Namespaces
+
+```
+kubectl get namespaces
+```
+Command to 
