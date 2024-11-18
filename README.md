@@ -31,3 +31,5 @@ Command to check the Namespaces:
 ```
 kubectl get namespaces
 ```
+
+
