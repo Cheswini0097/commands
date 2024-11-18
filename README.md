@@ -20,17 +20,14 @@ Command to run the Kubectl file
 ```
 kubectl apply -f <filename>
 ```
-Command to login into running pod
+Command to login into running pod:
 
 ```
-Command to check the Namespaces
+kubectl exec -it nginx bash
+```
+
+Command to check the Namespaces:
 
 ```
 kubectl get namespaces
 ```
-
-Command to login in to conatiner
-
-```
-kubectl exec -it nginx bash
- ```
