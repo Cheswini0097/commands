@@ -32,4 +32,10 @@ Command to check the Namespaces:
 kubectl get namespaces
 ```
 
+Command to get replica sets.
+
+```
+kubectl get replicasts
+```
+
 
