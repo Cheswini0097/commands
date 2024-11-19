@@ -39,3 +39,9 @@ kubectl get replicasts
 ```
 
 
+Command to login in to container
+
+```
+kubectl exec -it mysql-6d8878f8f4-244md -n expense -- bash
+```
+
