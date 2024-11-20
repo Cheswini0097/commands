@@ -38,6 +38,13 @@ Command to get replica sets.
 kubectl get replicasts
 ```
 
+command to check the storage class
+
+```
+
+kubectl get sc
+```
+
 
 Command to login in to container
 
